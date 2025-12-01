@@ -11,7 +11,7 @@ export default function Footer() {
           transition={{ duration: 0.6 }}
           className="text-center text-gray-600 text-sm"
         >
-          <p>© 2025 Ahmad Rizki Pratama</p>
+          <p>© 2025 M.Nikola</p>
           <p className="mt-1">Portofolio Pendidikan Kewarganegaraan</p>
         </motion.div>
       </div>

@@ -27,7 +27,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <Link to="/" className="text-gray-900 hover:text-gray-600 transition-colors">
-            Ahmad Rizki Pratama
+            M.Nikola
           </Link>
 
           {/* Desktop Navigation */}
